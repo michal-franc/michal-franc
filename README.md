@@ -8,6 +8,9 @@
     <img src="https://raw.githubusercontent.com/michal-franc/toadie-personal-assistant/master/docs/phone-mockups/screenshots/creature-idle.png" width="150"/> <img src="https://raw.githubusercontent.com/michal-franc/toadie-personal-assistant/master/docs/phone-mockups/screenshots/creature-speaking.png" width="150"/> <img src="https://raw.githubusercontent.com/michal-franc/toadie-personal-assistant/master/docs/watch-mockups/screenshots/watch-idle.png" width="120"/>
 
   - [**goxide**](https://github.com/michal-franc/goxide) — zoxide for browsing the web
+
+    <img src="https://raw.githubusercontent.com/michal-franc/goxide/master/recording.gif" width="600"/>
+
   - [**context-doctor**](https://github.com/michal-franc/context-doctor) — linter/validator for CLAUDE.md context files
 - 📫 How to reach me: www.mfranc.com
 - 💌 Resume: https://mfranc.com/cv
