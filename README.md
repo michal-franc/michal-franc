@@ -9,7 +9,7 @@
 
   - [**goxide**](https://github.com/michal-franc/goxide) — zoxide for browsing the web
 
-    <img src="https://raw.githubusercontent.com/michal-franc/goxide/master/recording.gif" width="350"/>
+    <img src="https://raw.githubusercontent.com/michal-franc/goxide/master/recording.gif" width="200"/>
 
   - [**context-doctor**](https://github.com/michal-franc/context-doctor) — linter/validator for CLAUDE.md context files
 - 📫 How to reach me: www.mfranc.com
